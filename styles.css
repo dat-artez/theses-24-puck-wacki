@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Sono-VariableFont'; /* Name your font */
+    src: url('fonts/Sono-VariableFont_MONO,wght.ttf') format('truetype'); /* Specify the path to your font file */
+}
+
+@font-face {
+    font-family: 'Sono'; /* Name your font */
+    src: url('fonts/web/woff2/Trispace-ExtraBold.woff2') format('truetype'); /* Specify the path to your font file */
+}
+
+/* body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Sono-VariableFont', sans-serif; 
+} */
+
+/* .content {
+    text-align: center;
+} */
+
+/* h1{
+    font-family: 'Sono', sans-serif; 
+} */
+
+/* voor gekke scrol website */
+
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+  
+  /* .wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .text-container {
+    overflow-x: auto;
+  }
+  
+  .text {
+    white-space: nowrap;
+    font-family: 'Sono-VariableFont', sans-serif;
+  }
+   */
+  
