@@ -1,0 +1,44 @@
+body {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #fff;
+}
+
+.content {
+    max-width: 800px;
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+}
+
+h1,
+h2,
+p,
+blockquote,
+footer {
+    text-align: left;
+}
+
+blockquote {
+    margin-left: 20px;
+    font-style: italic;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.9em;
+}
+
+
+
+.p5Canvas {
+    position: fixed;
+    left: 0;
+    top: 0;
+    /* pointer-events: none; */
+}
